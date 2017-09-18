@@ -1,16 +1,27 @@
 
 .master div{
+
     padding: 1%;
     margin: 1%;
     display: block;
     float: left;
     width: 45%;
-    background: rgb(140, 213, 122);
+    background: rgba(77, 124, 64, 0.47);
     border: 1px solid grey;
+
 }
+
 .master img{
+
     display: block;
     float: left;
     width: 50%;
     margin: 0 10px 10px 0;
+
+}
+
+.master h3{
+
+    color: #FFFFFF;
+    text-transform: uppercase;
 }
