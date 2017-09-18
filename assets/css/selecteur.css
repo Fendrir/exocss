@@ -1,1 +1,9 @@
-.master{}
+.master{
+
+    margin: 50px 15px 50px 15px;
+    background: rgb(140, 213, 122);
+    padding: 25px 50px 25px 50px ;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
