@@ -1,9 +1,16 @@
-.master{
 
-    margin: 50px 15px 50px 15px;
+.master div{
+    padding: 1%;
+    margin: 1%;
+    display: block;
+    float: left;
+    width: 45%;
     background: rgb(140, 213, 122);
-    padding: 25px 50px 25px 50px ;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
+    border: 1px solid grey;
+}
+.master img{
+    display: block;
+    float: left;
+    width: 50%;
+    margin: 0 10px 10px 0;
 }
